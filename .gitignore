@@ -1,0 +1,6 @@
+data
+vagrant
+secrets.yml
+
+scripts/mylocal_global_env_vars.cfg
+scripts/mylocal_secrets.cfg
